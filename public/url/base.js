@@ -1,4 +1,4 @@
-const urlBaseAPI = 'http://localhost:3000';
-const urlBaseFront = 'http://localhost:3000';
+const urlBaseAPI = 'https://atividade8-render.onrender.com';
+const urlBaseFront = 'https://atividade8-render.onrender.com';
 
 export { urlBaseAPI, urlBaseFront };
